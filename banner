@@ -1,5 +1,6 @@
 {
   "text": "Hello World",
-  "color": "#ff0000",
+  "txtcolor": "#000000",
+  "bgcolor": "#ff0000",
   "show": true
 }
